@@ -8,7 +8,7 @@ My name is Alejandro González Bautista, and I am a graduate in Chemical Enginee
 
 Furthermore, I possess a wide-ranging command of various computer tools, including MATLAB, Python, R, and MySQL, which I have effectively utilized in research and development projects. My education has also equipped me with strong knowledge in advanced statistics and mathematics, enabling me to effectively tackle complex problems and develop innovative solutions. Currently, I am expanding my knowledge in neural networks for practical applications in solving everyday problems, while also learning the C++ and Julia programming language to complement my technical skills.
 
-Moreover, I am pleased to inform you that I am fluent in French, proficient in English, and have a basic knowledge of Russian. These languages have enabled me to communicate effectively in international environments and collaborate in multicultural teams.
+Moreover, I am fluent in French, proficient in English, and have a basic knowledge of Russian. These languages have enabled me to communicate effectively in academic environments.
 
 In addition to the aforementioned computer tools, I have intermediate proficiency in LaTEX, Aspen Plus, and the Microsoft Office suite. These skills have allowed me to efficiently manage complex projects and collaborate effectively in academic teams.
 
